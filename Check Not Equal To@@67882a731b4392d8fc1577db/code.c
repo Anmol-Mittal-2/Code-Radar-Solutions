@@ -3,10 +3,10 @@ int main() {
     int a, b;
     scanf("%d %d", &a, &b);
     if(a!=b){
-        Print("True\n");
+        Printf("True\n");
     }
     else{
-        print("False\n");
+        printf("False\n");
     }
     
     return 0;
