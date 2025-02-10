@@ -6,7 +6,7 @@ int main() {
         Print("True\n");
     }
     else{
-        print("False\n")
+        print("False\n");
     }
     
     return 0;
