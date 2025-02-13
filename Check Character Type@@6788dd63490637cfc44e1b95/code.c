@@ -12,7 +12,7 @@ int main(){
 
     }
     else if(ch >='a' && ch <='z'){
-        printf("Consonants\n");
+        printf("Consonant\n");
 
     }
     else {
