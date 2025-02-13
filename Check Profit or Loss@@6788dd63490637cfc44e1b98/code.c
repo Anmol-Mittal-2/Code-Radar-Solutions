@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    char a ,b;
+    int a ,b;
     scanf("%c %c", &a , &b);
     if(a>b){
         printf("Loss\n");
