@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     int a ,b;
-    scanf("%c %c", &a , &b);
+    scanf("%d %d", &a , &b);
     if(a>b){
         printf("Loss\n");
     }
