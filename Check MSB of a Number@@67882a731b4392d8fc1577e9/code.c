@@ -2,12 +2,9 @@
 
 int main() {
     int n;
-    
-    
     scanf("%d", &n);
-
-    
-    if (n & 1)
+    int msb_mask = 1 << 31;
+    if (n & msb_mask)
         printf("Set\n");     
     else
         printf("Not Set\n"); 
