@@ -2,5 +2,5 @@
 int main(){
     int a;
     scanf("%d", &a);
-    for(i=1;)
+    for(int i=1; i<=;i++3)
 }
