@@ -11,7 +11,7 @@ int main(){
 
     }
     else{
-        printf("Second\n")
+        printf("Second\n");
     }
     return 0;
 }
