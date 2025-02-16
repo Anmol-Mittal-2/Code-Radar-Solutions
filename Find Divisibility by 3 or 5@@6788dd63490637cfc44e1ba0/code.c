@@ -9,10 +9,10 @@
             printf("Divisible by Both\n");
             break;
         case 2:
-            printf("Divisible by 3\n");
+            printf("Divisible by 5\n");
             break;
         case 1:
-            printf("Divisible by 5\n");
+            printf("Divisible by 3\n");
             break;
         default:
             printf("Not Divisible\n");
