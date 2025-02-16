@@ -15,7 +15,7 @@
             printf("Divisible by 5\n");
             break;
         default:
-            printf("not Divisibe\n")
+            printf("not Divisibe\n");
 
         return 0;
     }
