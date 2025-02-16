@@ -8,6 +8,14 @@
         case 3:
             printf("Divisible by Both\n");
             break;
+        case 2:
+            printf("Divisible by 3\n");
+            break;
+        case 1:
+            printf("Divisible by 5\n");
+            break;
+        default:
+            printf("not Divisibe\n")
 
         return 0;
     }
