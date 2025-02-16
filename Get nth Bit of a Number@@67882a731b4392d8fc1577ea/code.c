@@ -2,11 +2,8 @@
 int main(){
     int a, b;
     scanf("%d %d", &a, &b);
-    if((a==0 && b>0)||(a>0 && b==0)){
-        printf("1");
-    }
-    else{
-        printf("0");
-    }
+    int c =(a&(1<<b))?1 : 0;
+    printf("%d\n",c)
+    
     return 0;
 }
