@@ -4,7 +4,7 @@
     scanf("%d",&num);
     int div3 = (num %3 ==0);
     int div5 = (num %5 ==0);
-    switch(div3 *2 + div5){
+    switch(div3  + div5*5){
         case 3:
             printf("Divisible by Both\n");
             break;
