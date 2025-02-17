@@ -9,8 +9,8 @@ int main() {
 
     
     if (a & 1){
-        printf("Set\n");  }   
-    else{
+        printf("Set\n");  
+    }else{
         printf("Not Set\n");
     }
     return 0;
