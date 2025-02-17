@@ -8,10 +8,10 @@ int main() {
     scanf("%d", &a);
 
     
-    if (a & 1){
+    if (a & 1)
         printf("Set\n");  
-    }else{
+    else
         printf("Not Set\n");
-    }
+    
     return 0;
 }
